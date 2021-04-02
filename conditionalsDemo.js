@@ -14,3 +14,4 @@ if(enBuyuk<sayi3){
     enBuyuk=sayi3
 }
 console.log("En büyük sayı: "+enBuyuk)
+console.log("aaaaaa")
